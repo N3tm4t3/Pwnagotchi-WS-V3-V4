@@ -1,7 +1,7 @@
 # Pwnagotchi Setup Guide
 
 ## Thanks
-- **Base Image**: Huge thanks to [jayfelony](https://github.com/jayfelony) for providing the base Pwnagotchi image.
+- **Base Image**: Huge thanks to [jayfelony](https://github.com/jayofelony/pwnagotchi) for providing the base Pwnagotchi image.
 - **Plugins**: Big thanks to [SHUR1K-N](https://github.com/SHUR1K-N) for the custom plugins used in this setup.
 
 ---
