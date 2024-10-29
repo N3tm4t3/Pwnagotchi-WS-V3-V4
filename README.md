@@ -7,7 +7,7 @@
 ---
 
 ## Step 1: Download and Install the Base Image
-1. Download the Pwnagotchi base image provided by jayfelony [here](https://github.com/jayofelony/pwnagotchi).
+1. Download the Pwnagotchi base image provided by jayofelony [here](https://github.com/jayofelony/pwnagotchi).
 2. Flash the image to your SD card using a tool like [Balena Etcher](https://www.balena.io/etcher/).
 
 ## Step 2: Download Custom Plugins
