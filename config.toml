@@ -1,4 +1,4 @@
-main.name = "ChangeNameHere"
+main.name = "Pwnagotchi"
 main.lang = "en"
 main.whitelist = [
  "yourHomeSSIDHere",
@@ -134,7 +134,7 @@ main.plugins.exp.exp_x_coord = 196
 main.plugins.exp.exp_y_coord = 72
 main.plugins.exp.bar_symbols_count = 8
 
-main.plugins.enable_deauth.enabled = true
+main.plugins.enable_deauth.enabled = false
 
 main.plugins.enable_assoc.enabled = true
 
@@ -199,7 +199,7 @@ ui.faces.position_x = 0
 ui.faces.position_y = 34
 
 ui.web.enabled = true
-ui.web.address = "0.0.0.0"
+ui.web.address = "::"
 ui.web.username = "admin"
 ui.web.password = "admin"
 ui.web.origin = ""
@@ -278,4 +278,3 @@ fs.memory.mounts.data.size = "10M"
 fs.memory.mounts.data.sync = 3600
 fs.memory.mounts.data.zram = true
 fs.memory.mounts.data.rsync = true
-
